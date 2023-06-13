@@ -1,4 +1,4 @@
-# DNA-CLASSIFICATION
+# DNA-CLASSIFICATION using ML Models
 
 ### Keywords:
 ### DNA classification, ML models, k-mers, Jaccard similarity, expert system, genomics, dataset, Naive Bayes, Random Forest, SVM, XGBoost, DNA class balance, visualization, hyperparameter tuning, medicine, forensic science, agriculture, performance, existing methods, inference engine, efficiency, effectiveness, impact.
